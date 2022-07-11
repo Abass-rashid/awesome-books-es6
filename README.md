@@ -2,61 +2,48 @@
 
 # Project Name
 
-> Description the project.
+> Awesome books  is a simple website that displays a list of books and allows you to add and remove books from that list. By building this application, you will learn how to manage data using JavaScript. Thanks to that your website will be more interactive. You will also use a medium-fidelity wireframe to build the UI.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
 
-## Live Demo (if available)
+- HTML, CSS, JavaScript
+- Git, Linters
 
-[Live Demo Link](https://livedemo.com)
+## Live Demo 
 
+[Live Demo Link](https://bienvenuushindi.github.io/awesome-books-es6/)
 
 ## Getting Started
+To get a local copy of this exercice, Please follow these simple example steps.
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+1. Clone this repository or download the Zip folder:
 
+**``git clone git@github.com:abass-rashid/awesome-books-es6.git``**
 
-To get a local copy up and running follow these simple example steps.
+2. Navigate to the location of the folder in your machine:
 
-### Prerequisites
+**``you@your-Pc-name:~$ cd <folder>``**
 
-### Setup
+3. Press Enter to navigate to your local clone.
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+Now you can go and play with it as you wish :smile:
 
 ## Authors
 
-👤 **Author1**
+👤 **Abass Rashid**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@abaz](https://github.com/abass-rashid/)
+- Twitter: [@abazrashid](https://twitter.com/abass10)
+- LinkedIn: [abazrashid](https://www.linkedin.com/in/abass-rashid254/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Abass-rashid/awesome-books-es6/issues).
 
 ## Show your support
 
@@ -64,9 +51,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse Team 
+
 
 ## 📝 License
 
