@@ -43,7 +43,7 @@ Now you can go and play with it as you wish :smile:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/Abass-rashid/awesome-books-es6/issues).
 
 ## Show your support
 
